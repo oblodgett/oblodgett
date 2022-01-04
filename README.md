@@ -7,3 +7,5 @@
 - 📫 How to reach me: nilo --at-- nilosplace [dot] net
 - ⚡ Fun fact: I like to code
 - Checkout out my personal repos [https://gitlab.com/nilosedge]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oblodgett)](https://github.com/anuraghazra/github-readme-stats)
