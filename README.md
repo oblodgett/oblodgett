@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I like to code
 - Checkout out my personal repos [https://gitlab.com/nilosedge]
 
-[![Olin Blodgett's GitHub stats](https://github-readme-stats.vercel.app/api?username=oblodgett)](https://github.com/anuraghazra/github-readme-stats)
+[![Olin Blodgett's GitHub stats](https://github-readme-stats.vercel.app/api?username=oblodgett&show_icons=true&theme=dark)](https://github.com/oblodgett)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oblodgett&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oblodgett&langs_count=8&layout=compact)](https://github.com/oblodgett)
