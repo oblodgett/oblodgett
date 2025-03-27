@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on curation software
+- 🔭 I’m currently working on curation software [Alliance of Genome Resources](https://github.com/alliance-genome)
 - 🌱 I’m currently learning everything I can
 - 👯 I’m looking to collaborate with everyone
 - 💬 Ask me about anything
